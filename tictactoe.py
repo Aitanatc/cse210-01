@@ -1,5 +1,5 @@
 #tictactoe
-#Student: Aitana Toscano
+#Student: Aitana Toscano Cedeño.
 
 def main():
     player1 = input('Player 1, please choose your nickname: ')
