@@ -1,4 +1,4 @@
-#tictactoe
+#tictactoe assignment 1
 #Student: Aitana Toscano Cedeño.
 
 def main():
